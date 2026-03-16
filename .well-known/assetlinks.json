@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pandasquad.app",
+        "sha256_cert_fingerprints": ["66:5B:91:6D:40:2B:26:E4:8A:21:93:E6:EF:D4:58:23:D3:BC:75:45:E5:4F:8E:BE:4D:DD:2D:00:F7:77:2F:FA"]
+      }
+    }]
